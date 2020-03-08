@@ -5,6 +5,11 @@
 version:1.0.0 
 ![](https://travis-ci.org/PCAaron/webpack-builder.svg?branch=master)       
 
+## Install        
+````javascript
+npm i webpack-packer -S
+````
+
 ## 配置项说明        
 
 * webpack.base.js:基础配置项     
