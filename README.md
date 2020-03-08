@@ -1,9 +1,9 @@
-# webpack-builder ![build Status](https://travis-ci.org/PCAaron/webpack-builder.svg?branch=master)
+# webpack-builder ![ ](https://travis-ci.org/PCAaron/webpack-builder.svg?branch=master)
 
 > 基于webpack构建的react多页面配置包       
 
 version:1.0.0 
-![Build Status](https://travis-ci.org/PCAaron/webpack-builder.svg?branch=master)       
+![](https://travis-ci.org/PCAaron/webpack-builder.svg?branch=master)       
 
 ## 配置项说明        
 
