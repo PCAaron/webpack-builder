@@ -1,0 +1,18 @@
+language: node_js
+
+sudo: false
+
+cache:
+  apt: true
+  directories:
+    - node_modules
+
+node_js: stable
+
+intall:
+   - npm install -D
+   - cd ./tests/smoke/template
+   - npm install -D
+
+scripts:
+    - npm run test:unit

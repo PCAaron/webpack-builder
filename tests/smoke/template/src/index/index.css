@@ -1,0 +1,8 @@
+.index{
+    font-size:20px;
+    color:#ff0;
+    display: flex;
+}
+.borderRad{
+    border-radius: 3px;
+}
