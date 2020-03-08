@@ -1,5 +1,5 @@
 {
-  "name": "webpack-builder",
+  "name": "webpack-packer",
   "version": "1.0.0",
   "description": "基于webpack构建的react多页面配置包",
   "main": "index.js",
