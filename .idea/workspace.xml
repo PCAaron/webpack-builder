@@ -53,8 +53,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="275">
-                <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <first_editor relative-caret-position="125">
+                <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
               </first_editor>
               <second_editor />
             </state>
@@ -90,7 +90,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1434" />
-    <option name="width" value="1456" />
+    <option name="width" value="1755" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -197,15 +197,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583656107686</updated>
-      <workItem from="1583656109057" duration="1873000" />
+      <workItem from="1583656109057" duration="2065000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1873000" />
+    <option name="totallyTimeSpent" value="2065000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1434" y="0" width="1456" height="1047" extended-state="0" />
+    <frame x="1434" y="0" width="1755" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" />
@@ -221,7 +221,7 @@
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2058997" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -276,8 +276,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="275">
-            <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <first_editor relative-caret-position="125">
+            <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
           </first_editor>
           <second_editor />
         </state>

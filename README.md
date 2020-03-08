@@ -2,7 +2,8 @@
 
 > 基于webpack构建的react多页面配置包       
 
-version:1.0.0       
+version:1.0.0 
+![Build Status](https://travis-ci.org/PCAaron/webpack-builder.svg?branch=master)       
 
 ## 配置项说明        
 
